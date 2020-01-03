@@ -2,6 +2,14 @@
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif; 
 }
 
-.body {
-  background-color: lightgrey;
+.jumbotron {
+  margin: 0;
+}
+
+.intro-card {
+  padding: 100px 20px;
+}
+
+.first {
+  margin-top: -200px; 
 }

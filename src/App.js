@@ -4,6 +4,7 @@ import './App.css';
 
 // import Navbar from './components/Navbar';
 import Jumbotron from './components/Jumbotron';
+import IntroCard from './components/IntroCard'
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
       <Jumbotron logo={ logo }/>
 
       <div className="container-fluid body">
-
+        <IntroCard />
       </div>
     </div>
   );
