@@ -16,9 +16,9 @@ function App() {
 
       <div className="container-fluid body">
         <IntroCard />
-        <Belts />
 
       </div>
+        <Belts />
       <Footer />
     </div>
   );
