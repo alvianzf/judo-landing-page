@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Jumbotron extends Component {
   render() {
     return (
-        <div className="jumbotron jumbotron-fluid bg-dark">
+        <div className="jumbotron jumbotron-fluid">
             <div className="container">
                 <div className="row">
                     <div className="col-md-12 col-xs-12 text-center">

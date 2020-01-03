@@ -4,6 +4,11 @@
 
 .jumbotron {
   margin: 0;
+  background-color: black;
+}
+
+.card {
+  margin-bottom: 20px;
 }
 
 .intro-card {
@@ -12,4 +17,18 @@
 
 .first {
   margin-top: -200px; 
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+}
+
+.fa-big {
+  font-size: 5em;
+  padding: 10px;
+}
+
+.desc {
+  font-size: 0.8em;
 }

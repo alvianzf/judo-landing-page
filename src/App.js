@@ -4,7 +4,8 @@ import './App.css';
 
 // import Navbar from './components/Navbar';
 import Jumbotron from './components/Jumbotron';
-import IntroCard from './components/IntroCard'
+import IntroCard from './components/IntroCard';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -14,7 +15,9 @@ function App() {
 
       <div className="container-fluid body">
         <IntroCard />
+
       </div>
+      <Footer />
     </div>
   );
 }
