@@ -6,6 +6,7 @@ import './App.css';
 import Jumbotron from './components/Jumbotron';
 import IntroCard from './components/IntroCard';
 import Footer from './components/Footer';
+import Belts from './components/Belts';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
 
       <div className="container-fluid body">
         <IntroCard />
+        <Belts />
 
       </div>
       <Footer />
