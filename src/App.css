@@ -2,6 +2,10 @@
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif; 
 }
 
+.text-title {
+  font-size: 5em;
+}
+
 .logo {
   z-index: 100;
 }
