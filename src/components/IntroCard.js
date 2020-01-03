@@ -36,10 +36,10 @@ class IntroCard extends Component {
           </div>
 
           <div className="row">
-              <div className="col-md-4 col-xs-12">
+              <div className="col-md-4 col-xs-12 lower">
                 <div className="card">
                     <div className="text-center">
-                        <i className="fa fa-child fa-big"></i>
+                        <i className="fa fa-child fa-big text-info"></i>
                         <p className="desc">Kesehatan</p>
                     </div>
                 </div>
@@ -47,15 +47,15 @@ class IntroCard extends Component {
               <div className="col-md-4 col-xs-12">
                 <div className="card">
                     <div className="text-center">
-                        <i className="fa fa-trophy fa-big"></i>
+                        <i className="fa fa-trophy fa-big text-warning"></i>
                         <p className="desc">Prestasi</p>
                     </div>
                 </div>
               </div>
-              <div className="col-md-4 col-xs-12">
+              <div className="col-md-4 col-xs-12 lower">
                 <div className="card">
                     <div className="text-center">
-                        <i className="fa fa-shield fa-big"></i>
+                        <i className="fa fa-shield fa-big text-danger"></i>
                         <p className="desc">Bela Diri</p>
                     </div>
                 </div>

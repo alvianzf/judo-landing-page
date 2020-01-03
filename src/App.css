@@ -12,7 +12,7 @@
 }
 
 .intro-card {
-  padding: 100px 20px;
+  padding: 80px 20px;
 }
 
 .first {
@@ -31,4 +31,8 @@
 
 .desc {
   font-size: 0.8em;
+}
+
+.lower {
+  margin-top: 40px;
 }
